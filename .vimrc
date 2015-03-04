@@ -12,7 +12,7 @@ set relativenumber
 set splitright
 set splitbelow
 set oft=syntaxcomplete#Complete
-"filetype plugin indent on
+filetype plugin indent on
 
 " PowerLine Configurations
 set nocompatible
